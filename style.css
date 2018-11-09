@@ -190,6 +190,11 @@ h1,h2,h3,h4,h5,h6{
 
 }
 
+.avatar{
+    width: 20%;
+    border-radius: 50%;
+}
+
 /* Footer */
 
 #main-footer{
@@ -232,9 +237,7 @@ h1,h2,h3,h4,h5,h6{
     }
 
     #signin .logo{
-        margin-bottom: {
-            2vh;
-        }
+        margin-bottom:2vh;
     }
 
     #signin .text-input{
